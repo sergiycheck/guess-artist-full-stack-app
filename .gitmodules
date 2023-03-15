@@ -1,0 +1,6 @@
+[submodule "client-app"]
+	path = client-app
+	url = https://github.com/sergiycheck/guess-artist-nextjs-app.git
+[submodule "web-api"]
+	path = web-api
+	url = https://github.com/sergiycheck/guess-artist-web-api.git
